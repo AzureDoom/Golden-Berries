@@ -1,0 +1,10 @@
+modLoader="javafml" 
+loaderVersion="[28,)" 
+[[mods]]
+modId="goldenberry" 
+version="${file.jarVersion}"
+displayName="Golden Berry Mod" 
+authors="AzureDoomC, mmg28rtt" 
+description='''
+This is a long form description of the mod. You can write whatever you want here
+'''

@@ -1,5 +1,5 @@
 modLoader="javafml" 
-loaderVersion="[28,)" 
+loaderVersion="[29,)" 
 [[mods]]
 modId="goldenberry" 
 version="${file.jarVersion}"

@@ -11,7 +11,6 @@ import net.minecraftforge.fml.common.Mod;
 @Mod("goldenberry")
 public class GoldenBerryMod {
 	public static final String MODID = "goldenberry";
-
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 	public static class RegistryEvents {
 		@SubscribeEvent
